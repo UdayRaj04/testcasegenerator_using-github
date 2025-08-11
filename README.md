@@ -5,7 +5,7 @@ A full-stack application that connects to your GitHub repositories, lists code f
 ---
 ## App Demo
 
-[![Watch the video](app_demo.mp4) 
+[![Watch the video](https://github.com/UdayRaj04/testcasegenerator_using-github/blob/main/app_demo.mp4) 
 ---
 
 
