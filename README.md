@@ -5,7 +5,7 @@ A full-stack application that connects to your GitHub repositories, lists code f
 ---
 ## App Demo
 
-![App_Demo](app_demo.mp4) 
+[![Watch the video](app_demo.mp4) 
 ---
 
 
