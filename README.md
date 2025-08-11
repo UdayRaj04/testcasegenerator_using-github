@@ -5,7 +5,7 @@ A full-stack application that connects to your GitHub repositories, lists code f
 ---
 ## App Demo
 
-[![Watch the video](https://media.istockphoto.com/id/899153838/vector/video-tutorial-concept.jpg?s=612x612&w=0&k=20&c=4tnALgGlmLnBoA3BWbcdR6pt0xjjB9q0L_WxneJ0yzM=)](https://github.com/UdayRaj04/testcasegenerator_using-github/blob/main/app_demo.mp4) 
+[![Watch the video](https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/demo-button-label-icon.png)](https://github.com/UdayRaj04/testcasegenerator_using-github/blob/main/app_demo.mp4) 
 ---
 
 
