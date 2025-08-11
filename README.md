@@ -3,6 +3,16 @@
 A full-stack application that connects to your GitHub repositories, lists code files, uses AI to generate test case summaries and code, and can create a pull request with the generated tests.
 
 ---
+# Problem Statement
+
+Build an Test case generator application with github - The Application should do the following
+
+1. Integrates with github and lists all the code files in a UI 
+2. Generates suggested test cases  (It can be any test cases like Junit for React, selenium for python automation testing ). Choose framework of your choice.  
+3. Test case can be generated for the group of selected files. You will be sending AI group of files that it can genertae test cases on. AI will initially give the summary of multiple test cases. Display all the list of summary in a UI
+4. user can select summary of a test case and clicks generate code. The test case code is generated
+5. Display a button that creates a pr with generated testcase code on github (This is optional. Bonus)
+---
 ## App Demo
 
 [![Watch the video](https://img.shields.io/badge/▶%20Watch%20Demo-blue)](app_demo.mp4) 
