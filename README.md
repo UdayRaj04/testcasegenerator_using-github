@@ -3,6 +3,11 @@
 A full-stack application that connects to your GitHub repositories, lists code files, uses AI to generate test case summaries and code, and can create a pull request with the generated tests.
 
 ---
+## App Demo
+
+![App_Demo](app_demo.mp4) 
+---
+
 
 ## Features
 
@@ -111,11 +116,6 @@ npm run dev
 
 ---
 
-## Screenshots
-
-> Add screenshots of the UI showing repo selection, test case summaries, generated code, and PR creation.
-
----
 
 ## Customization
 
